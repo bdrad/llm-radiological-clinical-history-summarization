@@ -1,0 +1,5 @@
+.DS_Store
+.env
+.env.local
+evaluation_platform/.env
+evaluation_platform/.env.local
